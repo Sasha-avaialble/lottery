@@ -163,6 +163,7 @@ export default function LotteryEntrance() {
           The raffleAddress is not detected
         </div>
       )}
+      <div>You never know who is going to win</div>
     </div>
   );
 }
